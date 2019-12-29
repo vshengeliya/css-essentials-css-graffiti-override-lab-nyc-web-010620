@@ -7,10 +7,10 @@
   display: none;
 }
 
- div #wall #tag-3.slick {
+ div #wall #tag-3.slick.wicked {
   display: none;
 }
-div #wall.parent #tag-4 {
+#wall.parent #tag-4 {
   display:none;}
 
 #wall.parent #tag-5.slick{
